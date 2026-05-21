@@ -11,6 +11,8 @@ Personal portfolio website built with HTML and CSS.
  Live Demo:  
 https://editanaks-ops.github.io/mini-site-resume/
 
+Built as a personal portfolio to demonstrate AI, web development, and UX-oriented thinking.
+
 ---
 
 ##  About

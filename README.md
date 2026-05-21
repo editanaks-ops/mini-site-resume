@@ -37,13 +37,14 @@ This project is a personal resume website presenting:
 
 ##  Structure
 
+```
 mini_site/
 │
 ├── index.html
 ├── scss/
 ├── img/
-└── README.md
 
+```
 
 ---
 

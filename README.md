@@ -1,5 +1,11 @@
 # Mini Site Resume
 
+##  Technologies
+
+![Python](https://img.shields.io/badge/Python-3.12-yellow)
+![Django](https://img.shields.io/badge/Django-WebFramework-green)
+![AI](https://img.shields.io/badge/AI-Assistants-blue)
+
 Personal portfolio website built with HTML and CSS.
 
  Live Demo:  
